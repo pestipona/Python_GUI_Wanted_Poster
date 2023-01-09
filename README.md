@@ -11,3 +11,8 @@ This project is a simple guide to getting started on creating a GUI application 
 3. Run the Code in your IDE
 
 ## Source Code:
+
+## Online Resources:
+* [Guizero](https://lawsie.github.io/guizero/about/)
+* [Guizero - Picture](https://lawsie.github.io/guizero/picture/)
+* [HTML Color Codes](https://htmlcolorcodes.com/)
