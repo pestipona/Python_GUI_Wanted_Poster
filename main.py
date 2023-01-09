@@ -13,7 +13,7 @@ Hazel.text_size = 50
 Hazel.font = "Times New Roman"
 
 # add a picture widget
-bunny = Picture(app, image="Hazel.jpg")
+bunny = Picture(app, image="./images/Hazel.jpg")
 bunny.resize(400, 350)
 
 # display the gui app
