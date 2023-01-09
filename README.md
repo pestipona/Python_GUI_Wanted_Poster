@@ -1,4 +1,4 @@
-# Python Game Wanted Poster
+# Python GUI Wanted Poster
 
 ## Description:
 
